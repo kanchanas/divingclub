@@ -1,3 +1,3 @@
 #!/bin/bash
-chmod -R 777 core/storage/logs
-chmod -R 777 core/storage/framework/views
+chmod -R 777 core/storage
+chmod -R 777 core/storage
